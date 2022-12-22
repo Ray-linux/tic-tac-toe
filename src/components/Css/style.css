@@ -1,0 +1,32 @@
+.suqare-container{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.border-right-bottom{
+    border-right:  2px solid #e2ebef;
+    border-bottom:  2px solid #e2ebef;
+}
+
+.border-right{
+    border-right: 2px solid #e2e2e2;
+}
+
+.border-bottom{
+    border-bottom: 2px solid #e2e2e2;
+}
+
+
+.x-color{
+    color: #00ff26;
+}
+
+.o-color{
+    color: #4e02dc;
+}
